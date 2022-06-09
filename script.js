@@ -82,6 +82,10 @@ function yesClick() {
   alert("Tối nay, lên hồ chơi em nhé!");
 }
 
+function noClick() {
+  alert("Tối nay, lên hồ chơi em nhé!");
+}
+
 function noHover() {
   var x = Math.floor(Math.random() * window.innerWidth);
   var y = Math.floor(Math.random() * window.innerHeight);
