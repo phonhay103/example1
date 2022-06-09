@@ -79,16 +79,16 @@ window.onload = function () {
 };
 
 function yesClick() {
-  alert("Tối nay, lên hồ chơi em nhé!");
+  alert("Tối mai đi chơi nhé!");
 }
 
 function noClick() {
-  alert("Tối nay, lên hồ chơi em nhé!");
+  alert("Tối mai đi chơi nhé!");
 }
 
 function noHover() {
   var x = Math.floor(Math.random() * window.innerWidth);
   var y = Math.floor(Math.random() * window.innerHeight);
-  document.getElementById("btnNo").style.left = x + "px";
-  document.getElementById("btnNo").style.top = y + "px";
+  document.getElementById("btnYes").style.left = x + "px";
+  document.getElementById("btnYes").style.top = y + "px";
 }
