@@ -83,7 +83,7 @@ function yesClick() {
 }
 
 function noClick() {
-  alert("Tối mai đi chơi nhé!");
+  // alert("Tối mai đi chơi nhé!");
 }
 
 function noHover() {

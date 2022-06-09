@@ -13,9 +13,9 @@ canvas {
   display: block;
 }
 
-#loveQuestion {
+#Question {
   position: absolute;
-  left: 220px;
+  left: 400px;
   top: 230px;
   font-size: 80px;
 }
